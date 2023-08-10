@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-if_name_=="-main_":
-  """Print the sum, difference, multiple and quotient of 10 and 5."""
+
+ if _name_=="-main_":
+ 
+    """Print the sum, difference, multiple and quotient of 10 and 5."""
     from calculator_1 import add, sub, mul, div
 
     a = 10
